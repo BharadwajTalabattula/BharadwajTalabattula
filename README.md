@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BharadwajTalabattula
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Java script
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me - bharadwajtalabattula@gmail.com
 - 😄 Pronouns: he/him
