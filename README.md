@@ -11,9 +11,4 @@
 - Frontend: React.js, HTML, CSS, JavaScript  
 - Backend: Node.js, Express.js  
 - Databases: MongoDB, MySQL / SQL  
-- Tools: Git, GitHub, REST APIs  
-
-💡 What I focus on:
-- Writing clean and maintainable code  
-- Understanding how systems work end-to-end  
-- Continuously improving performance and architecture  
+- Tools: Git, GitHub, REST APIs 
